@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/horaciom61019/node-markov/issues"
   },
-  "homepage": "https://github.com/horaciom61019/node-markov#readme"
+  "homepage": "https://github.com/horaciom61019/node-markov#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "fs": "^0.0.1-security"
+  }
 }
