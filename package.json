@@ -1,0 +1,24 @@
+{
+  "name": "node-markov",
+  "version": "1.0.0",
+  "description": "An algorithm for generating realistic machine-made text from an original source text.",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horaciom61019/node-markov.git"
+  },
+  "keywords": [
+    "node",
+    "testing",
+    "jest"
+  ],
+  "author": "Horacio Munoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/horaciom61019/node-markov/issues"
+  },
+  "homepage": "https://github.com/horaciom61019/node-markov#readme"
+}
